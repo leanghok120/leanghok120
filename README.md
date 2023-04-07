@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **The first computer programmer was a lady named ‘Ada Lovelace’.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
