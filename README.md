@@ -59,10 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/Astr/Astr/blob/output/snake.svg" alt="Snake animation" />
 
-###src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-<!---
-leanghok120/leanghok120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
