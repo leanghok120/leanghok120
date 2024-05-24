@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Music Player on the web named Meowtify<br>👯 I’m looking to collaborate on making clean websites for open source projects<br>🌱 I’m currently learning React<br>💬 Ask me about Frontend Dev<br>⚡ Fun fact I like to sleep
+🔭 I’m currently working on an expense tracket cli<br>👯 I’m looking to collaborate on making clean websites for open source projects<br>🌱 I’m currently learning React<br>💬 Ask me about Frontend Dev<br>⚡ Fun fact I like to sleep
 
 
 # 💻 Tech Stack:
