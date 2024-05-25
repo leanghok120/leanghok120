@@ -2,6 +2,7 @@
 
 ### 💫 About Me:
 I love coding, croissant, cycling, cats(munchkins), calm rainy days, and linux. (Neovim as well)
+
 ![Peach Goma GIF](./peach-goma.gif)
 
 ### 📊 GitHub Stats:
