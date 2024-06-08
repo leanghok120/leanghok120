@@ -1,7 +1,7 @@
 ### Helloo! 👋
 
 ### 💫 About Me:
-I love coding, croissant, cycling, cats(munchkins), calm rainy days, and linux. (Neovim as well)
+I love coding, croissant, cycling, cats(munchkins), cozy rainy days, and linux. (Neovim as well)
 
 ![Dancing Gopher GIF](./dancing-gopher.gif)
 
