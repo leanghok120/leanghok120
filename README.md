@@ -5,7 +5,7 @@ I love coding, croissant, cycling, cats(munchkins), cozy rainy days, and linux. 
 
 I write [blogs](https://leanghok.bearblog.dev) about nerdy tech stuff like linux and coding.
 
-![Dancing Gopher GIF](./dancing-gopher.gif)
+![Picture](./white-headphone.png)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leanghok120&theme=tokyonight&hide_border=false)<br/>
