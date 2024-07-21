@@ -3,7 +3,7 @@
 ### 💫 About Me:
 I love coding, croissant, cycling, cats(munchkins), cozy rainy days, and linux. (Neovim as well)
 
-I write [blogs](https://leanghok.bearblog.dev) about nerdy tech stuff like linux and coding.
+I write [blogs](https://leanghok.netlify.app/blogs) about nerdy tech stuff like linux and coding.
 
 ![Picture](./white-headphone.png)
 
