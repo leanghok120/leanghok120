@@ -10,4 +10,4 @@ I write [blogs](https://leanghok.netlify.app/blogs) about nerdy tech stuff like 
 
 ### 📊 GitHub Stats:
 
-![leanghok120's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leanghok120&theme=dark&hide_border=true)
+![leanghok120's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leanghok120&theme=dark&hide_border=false)
