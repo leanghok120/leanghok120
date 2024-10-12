@@ -6,7 +6,8 @@ I love coding, croissant, cycling, cats(ragdolls), cozy rainy days, and linux. (
 
 I write [blogs](https://leanghok.vercel.app/posts) about nerdy tech stuff like linux and coding.
 
-![cozy art by mouun factory](./moun-factory.jpg)
+![cozy art by mouun factory](./moun-factory.png)
+
 [(art by mooun)](https://www.instagram.com/mouun._.factory/)
 
 ### 📊 GitHub Stats:
