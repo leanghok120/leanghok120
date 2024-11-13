@@ -6,7 +6,7 @@ I love coding, croissant, cycling, cats(ragdolls), cozy rainy days, and linux. (
 
 I write [blogs](https://leanghok.vercel.app/posts) about nerdy tech stuff like linux and coding.
 
-Currently, I'm learning fullstack web development! (last day of exam)
+Currently, I'm learning fullstack web development!
 
 ![peach cat infront of fan](./peach.gif)
 
