@@ -2,11 +2,9 @@
 
 ### 💫 About Me:
 
-I love coding, croissant, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
+I love coding, croissants, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
 
-I write [blogs](https://leanghok.vercel.app/posts) about nerdy tech stuff like linux and coding.
-
-Currently, I'm learning fullstack web development!
+I'm a 0.5x fullstack developer
 
 ![peach cat infront of fan](./peach.gif)
 
