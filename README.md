@@ -6,7 +6,9 @@ I love coding, croissant, cycling, cats(ragdolls), cozy rainy days, and linux. (
 
 I write [blogs](https://leanghok.vercel.app/posts) about nerdy tech stuff like linux and coding.
 
-![peach cat infront of fan](./peach.gif)
+Here's a stana hat for you :3
+
+![santa hat](./santa_hat.png)
 
 ### 📊 GitHub Stats:
 
