@@ -4,7 +4,7 @@
 
 I love coding, croissants, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
 
-I'm a 0.5x fullstack developer
+Currently: Pretty busy with school stuff
 
 Here's a stana hat for you :3
 
