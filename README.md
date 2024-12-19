@@ -4,7 +4,7 @@
 
 I love coding, croissants, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
 
-Currently: Studying for upcoming exams (super ez)
+Currently: just chilling and yapping
 
 Here's a stana hat for you :3
 
