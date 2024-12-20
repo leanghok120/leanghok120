@@ -4,7 +4,7 @@
 
 I love coding, croissants, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
 
-Currently: just chilling and yapping
+Currently: addicted to volleyball
 
 Here's a stana hat for you :3
 
