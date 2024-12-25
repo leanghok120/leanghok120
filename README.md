@@ -4,7 +4,7 @@
 
 I love coding, croissants, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
 
-Currently: not active cuz why not
+Currently: learning svelte and sveltekit
 
 Here's a stana hat for you :3
 
