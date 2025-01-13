@@ -9,7 +9,3 @@ Currently: watching spy x family
 Here's a stana hat for you :3
 
 ![santa hat](./santa_hat.png)
-
-### 📊 GitHub Stats:
-
-![leanghok120's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leanghok120&theme=dark&hide_border=false)
