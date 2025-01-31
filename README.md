@@ -4,7 +4,7 @@
 
 I love coding, croissants, cycling, cats(ragdolls), cozy rainy days, and linux. (Neovim as well)
 
-Currently: learning Go
+Currently: happy chinese new year
 
 Here's a stana hat for you :3
 
