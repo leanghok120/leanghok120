@@ -1,9 +1,5 @@
 ### Helloo! 👋
 
-### 💫 About Me:
+i've switched to sourcehut instead, all my important projects will now be stored on sourcehut.
 
-I enjoy programming, math, linux, neovim, badminton, cats, and cozy rainy days.
-
-Here's a stana hat for you ^-^
-
-![santa hat](./santa_hat.png)
+[my sr.ht](https://sr.ht/~leanghok)
